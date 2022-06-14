@@ -4,3 +4,6 @@ evolve
 doctest.h
 main
 test.f
+.vscode/
+a.out
+main.cpp
